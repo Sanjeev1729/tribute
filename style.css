@@ -6,6 +6,7 @@ body{
 #headerContainer{
     width: 100%;
     height: 500px;
+	display: flex;
 }
 .navbar {
 	display: flex;
